@@ -50,6 +50,28 @@ class Mmu:
             
             
             count += 1
+    
+    def _iniciar_memoria_secundaria(self,lista_de_processos):
+        n = len(lista_de_processos)
+        
+        count  = 0
+        count2  = 0
+        lista_t = 0
+        while(count2 < n):
+            lista_t += int(lista_de_processos[count2].tamanho)
+            count2 += 1
+        mem = lista_t/self.tamanho_pages
+        print(mem)
+        while(count < mem):
+            dic = {}
+            ini = self.tamanho_pages * count
+            fim = ini + (self.tamanho_pages -1)
+            #print("INI,FIM",ini,fim)
+            dic[count] = (ini,fim,[])
+            self._memoria_secundaria_posicoes.append(dic)
+            
+            
+            count += 1
         
     
         
