@@ -39,7 +39,7 @@ class Mmu:
             lista_t += int(lista_de_processos[count2].tamanho)
             count2 += 1
         mem = lista_t/self.tamanho_pages
-        print(mem)
+        #print(mem)
         while(count < mem):
             dic = {}
             ini = self.tamanho_pages * count
@@ -61,7 +61,7 @@ class Mmu:
             lista_t += int(lista_de_processos[count2].tamanho)
             count2 += 1
         mem = lista_t/self.tamanho_pages
-        print(mem)
+        #print(mem)
         while(count < mem):
             dic = {}
             ini = self.tamanho_pages * count
