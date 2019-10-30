@@ -1,0 +1,13 @@
+/home/devimagem/src/darknet.backup/data-lgppc/lgppc/images/superbom-supermercados-img-5.jpeg
+/home/devimagem/src/darknet.backup/data-lgppc/lgppc/images/IMG_9791.jpeg
+/home/devimagem/src/darknet.backup/data-lgppc/lgppc/images/img-60.jpeg
+/home/devimagem/src/darknet.backup/data-lgppc/lgppc/images/st-marche-img-10.jpeg
+/home/devimagem/src/darknet.backup/data-lgppc/lgppc/images/img-11.jpeg
+/home/devimagem/src/darknet.backup/data-lgppc/lgppc/images/img-55.jpeg
+/home/devimagem/src/darknet.backup/data-lgppc/lgppc/images/img-34.jpeg
+/home/devimagem/src/darknet.backup/data-lgppc/lgppc/images/img-13.jpeg
+/home/devimagem/src/darknet.backup/data-lgppc/lgppc/images/superbom-supermercados-img-2.jpeg
+/home/devimagem/src/darknet.backup/data-lgppc/lgppc/images/IMG_9664.jpeg
+/home/devimagem/src/darknet.backup/data-lgppc/lgppc/images/img-3.jpeg
+/home/devimagem/src/darknet.backup/data-lgppc/lgppc/images/img-75.jpeg
+/home/devimagem/src/darknet.backup/data-lgppc/lgppc/images/st-marche-img-12.jpeg
