@@ -1,5 +1,5 @@
 classes= 5  
-train  = /home/devimagem/src/darknet.backup/data-lgppc/lgppc/train.txt  
-valid  = /home/devimagem/src/darknet.backup/data-lgppc/lggpc/test.txt  
-names =  /home/devimagem/src/darknet.backup/data-lgppc/cfg/lgppc.names  
+train  = home/devimagem/src/darknet.backup/data-lgppc/lgppc/train.txt  
+valid  = home/devimagem/src/darknet.backup/data-lgppc/lggpc/test.txt  
+names =  home/devimagem/src/darknet.backup/data-lgppc/cfg/lgppc.names  
 backup = backup/
